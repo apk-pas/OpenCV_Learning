@@ -1,0 +1,4 @@
+E:/VScode_Projects/OpenCV_Demo/build/CMakeFiles/opencv.dir
+E:/VScode_Projects/OpenCV_Demo/build/CMakeFiles/gtest.dir
+E:/VScode_Projects/OpenCV_Demo/build/CMakeFiles/edit_cache.dir
+E:/VScode_Projects/OpenCV_Demo/build/CMakeFiles/rebuild_cache.dir
